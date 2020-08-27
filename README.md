@@ -1,7 +1,5 @@
-## [Discord Bot Website Template](https://github.com/DiscordApps/botcord-site-template)
-
 Modern website design UI / UX without any frameworks HTML, CSS, JS 
-Supports all language
+_Supports all language_
 
 ![](Screenshot.png)
 
@@ -9,4 +7,4 @@ Supports all language
 * [admin@discordjs.services](mailto:admin@discordjs.services)
 
 `for more information.`
-[Fork](https://github.com/clearlyelevated) 
+[Fork Owner](https://github.com/clearlyelevated) 
